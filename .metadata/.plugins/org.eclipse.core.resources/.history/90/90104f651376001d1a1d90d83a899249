@@ -1,0 +1,18 @@
+package constructor;
+
+public class TP {
+
+	public static void main(String[] args) 
+	{
+		
+		
+
+	}
+	public void addtion()
+	{
+		int div;
+		div=p/r;
+		System.out.println("division is "+div);
+	}
+
+}

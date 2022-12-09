@@ -1,0 +1,28 @@
+package logicalprogram;
+
+import java.util.Scanner;
+
+public class NoWhiteSpace {
+
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter any number");
+		String a = sc.next();
+		char space= ' ';
+		int count=0;
+		
+		for(int i=0;i<=a.length()-1;i++)
+		{
+			if(a.charAt(i)==space)
+			{
+				count++;
+			}
+			
+		}
+		System.out.println("given String is "+a);
+		System.out.println("number of blank space are "+count);
+		
+	}
+
+}

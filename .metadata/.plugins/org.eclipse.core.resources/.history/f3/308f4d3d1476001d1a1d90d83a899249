@@ -1,0 +1,27 @@
+package constructor;
+
+public class TP {
+
+	int p;
+	int r;
+
+	public TP()
+	{
+		p=10;
+		r=10;
+	}
+	public static void main(String[] args) 
+	{
+		TP tt = new TP();
+		tt.addtion();
+		
+
+	}
+	public void addtion()
+	{
+		int div;
+		div = p/r;
+		System.out.println("division is "+div);
+	}
+
+}

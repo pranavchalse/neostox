@@ -1,0 +1,25 @@
+package exceptionhandling;
+
+public class NullPointerExcepti {
+
+	public static void main(String[] args) 
+	{
+		String a="abc";
+		String b=null;
+		
+		try 
+		{
+			System.out.println(a.charAt(10));
+			
+		} 
+		catch (NullPointerException e)
+		{
+			System.out.println("check string");
+		}
+		catch(StringIndexOutOfBoundsException f)
+		{
+			System.out.println("check String index or size");
+		}
+	}
+
+}

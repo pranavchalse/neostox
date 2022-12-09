@@ -1,0 +1,32 @@
+package conditionalStatement;
+
+public class ElseIfUse {
+
+	public static void main(String[] args) 
+	{
+		//if you have the multiple condtions and you have to exicute atleast one condtion
+		int marks = 2;
+		if (marks >=75)
+		{
+			System.out.println("distincation");
+		}
+		else if (marks >= 65)
+		{
+			System.out.println("first class");
+		}
+		else if (marks >=50)
+		{
+			System.out.println("second class");
+		}
+		else if (marks >=30)
+		{
+			System.out.println("pass");
+		}
+		else
+		{
+			System.out.println("enter the valid number");
+		}
+
+	}
+
+}

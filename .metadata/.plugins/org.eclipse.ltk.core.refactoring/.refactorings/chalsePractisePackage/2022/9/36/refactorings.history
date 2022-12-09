@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;chalsePratik.ElseIF.java&apos; to &apos;IfElseEg1.java&apos;&#x0D;&#x0A;- Original project: &apos;chalsePractisePackage&apos;&#x0D;&#x0A;- Original element: &apos;chalsePratik.ElseIF.java&apos;&#x0D;&#x0A;- Renamed element: &apos;chalsePratik.IfElseEg1.java&apos;" description="Rename compilation unit &apos;ElseIF.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;chalsePratik{ElseIF.java" name="IfElseEg1.java" references="false" stamp="1662114166114" version="1.0"/>
+</session>

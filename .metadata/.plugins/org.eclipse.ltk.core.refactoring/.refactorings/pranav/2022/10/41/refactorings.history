@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;collectionuse.A&apos; to &apos;HashSEtStudy1&apos;&#x0D;&#x0A;- Original project: &apos;pranav&apos;&#x0D;&#x0A;- Original element: &apos;collectionuse.A&apos;&#x0D;&#x0A;- Renamed element: &apos;collectionuse.HashSEtStudy1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;A&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;collectionuse{A.java[A" matchStrategy="1" name="HashSEtStudy1" qualified="false" references="true" similarDeclarations="false" stamp="1665047317728" textual="false" version="1.0"/>
+</session>
